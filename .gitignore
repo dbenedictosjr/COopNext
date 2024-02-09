@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/COopNext.API/bin/Debug/net6.0
+/COopNext.API/obj
+/COopNext.Application/bin/Debug/net6.0
+/COopNext.Application/obj
+/COopNext.Domain/bin/Debug/net6.0
+/COopNext.Domain/obj
+/COopNext.Infrastructure/bin/Debug/net6.0
+/COopNext.Infrastructure/obj
